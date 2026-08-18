@@ -1,4 +1,4 @@
-import { IProduct } from "../../../types";
+import { IProduct } from "../../types";
 
 // Хранит все товары + хранит выбранный товар
 export class ProductCatalog {

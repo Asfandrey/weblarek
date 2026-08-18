@@ -1,4 +1,4 @@
-import { IBuyer, TBuyerErrors, TPayment } from "../../../types";
+import { IBuyer, TBuyerErrors, TPayment } from "../../types";
 
 // Храним
 export class Buyer {

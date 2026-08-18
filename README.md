@@ -4,8 +4,10 @@
 
 Структура проекта:
 - src/ — исходные файлы проекта
-- src/components/ — папка с JS компонентами
+- src/components/ — папка с TS компонентами
 - src/components/base/ — папка с базовым кодом
+- src/components/models/ — модели предметной области
+- src/components/services/ — коммуникационный слой приложения
 
 Важные файлы:
 - index.html — HTML-файл главной страницы
